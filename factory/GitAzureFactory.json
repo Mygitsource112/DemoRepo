@@ -1,0 +1,9 @@
+{
+	"name": "GitAzureFactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9c3bb04b-94b1-4334-8d40-4a857d00a21c",
+		"tenantId": "915476f9-1440-470a-a342-99b93c6d503d"
+	}
+}
